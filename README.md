@@ -5,7 +5,7 @@
 
 ### Connect with Me
 https://www.linkedin.com/in/bar%C4%B1%C5%9F-can-y%C3%B6nel-275292157
-- Email: barisyonel@example.com
+- Email:takasan97@gmail.com
 
 - React.js, JavaScript, HTML, CSS
 - Git & GitHub, Node.js
