@@ -4,7 +4,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barisyonel&layout=compact&theme=radical)
 
 ### Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/barisyonel)
+https://www.linkedin.com/in/bar%C4%B1%C5%9F-can-y%C3%B6nel-275292157
 - Email: barisyonel@example.com
 
 - React.js, JavaScript, HTML, CSS
